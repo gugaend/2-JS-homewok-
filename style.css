@@ -47,8 +47,9 @@ header {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    width: 1200px;
     margin-top: 220px;
-    width: 780px;
+    margin-left: 360px;
 } 
 
 .left{
